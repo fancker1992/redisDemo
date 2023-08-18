@@ -1,0 +1,6 @@
+spring:
+  data:
+    redis:
+      host: 43.134.10.62
+      port: 6384
+      password: 7bbrmgta0CroLrwV
